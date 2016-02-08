@@ -1,6 +1,6 @@
 # gulp-succss [![Build Status](https://travis-ci.org/f4bien/gulp-succss.svg?branch=master)](https://travis-ci.org/f4bien/gulp-succss)
 
-> Gulp plugin for Succss
+> Gulp plugin for [Succss](https://github.com/B2F/Succss)
 
 
 ## Install
