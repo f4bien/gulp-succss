@@ -24,8 +24,8 @@ var gulp = require('gulp'),
 gulp.task('styles', function () {
 	return gulp.src('src/file.ext')
 		.pipe(succss({
-		  baseUrl: 'http://www.example.com'
-	  }))
+			baseUrl: 'http://www.example.com'
+		}))
 		.pipe(gulp.dest('dist'));
 });
 ```
@@ -40,7 +40,7 @@ gulp.task('styles', function () {
 ##### baseUrl
 
 Type: `string`  
-Default: `false`
+Default: `false`  
 Required: `true`
 
 Define a base URL in order to run tests.
